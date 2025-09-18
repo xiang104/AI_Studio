@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI 會議錄音助理V2.0",
+  "description": "一款智慧會議錄音應用程式，可以錄製音訊、上傳音檔，並利用 AI 生成逐字稿和會議摘要。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
